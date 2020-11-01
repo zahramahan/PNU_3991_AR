@@ -13,7 +13,7 @@
 
 ## دروس کارشناسی 
 
-[1115157_01 & 02 نظريه زبانهاوماشين ها 3](https://github.com/nazanin-amini/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
+[1115157_01 & 02 نظريه زبانهاوماشين ها 3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/58_%D8%B2%D9%87%D8%B1%D8%A7%20%D9%85%D8%A7%D9%87%D8%A7%D9%86)
 <br>
 
 --------------
