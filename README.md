@@ -6,7 +6,7 @@
 - [روزمه](https://zahramahan.github.io/zahra-resum/)
 - [رزومه به دو زبان](https://github.com/zahramahan/zahramahan.github.io/blob/master/index.md)
 - [SOP](https://zahramahan.github.io/Sop/.  )
-- [مدرک جاوا اسکریپت](https://github.com/zahramahan/PNU_3991_AR/blob/main/zahramahan.jpg)
+- [Certificates]( https://zahramahan.github.io/Certificates/)
 
 
 ------------------
