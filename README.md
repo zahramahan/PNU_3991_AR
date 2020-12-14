@@ -85,9 +85,6 @@
 
 -----------
 
-<a name="Group"></a>
-<details>
-    <summary>گروه </summary>
 
 ## گروه
 
