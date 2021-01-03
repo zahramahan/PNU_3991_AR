@@ -29,8 +29,3 @@
 </details>
  
 ---------------
-</details>
-
-[<kbd>↩</kbd>](#TOC)
-
-</div>
