@@ -8,7 +8,7 @@
 - [SOP](https://zahramahan.github.io/Sop/.  )
 - [Certificates]( https://zahramahan.github.io/Certificates/)
 - [Latx](https://github.com/zahramahan/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
-
+- [ارائه فصل سوم](https://github.com/zahramahan/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines/%D9%81%D8%B5%D9%84%20%D8%B3%D9%88%D9%85%20-%20%D8%B2%D9%87%D8%B1%D8%A7%20%D9%85%D8%A7%D9%87%D8%A7%D9%86)
 
 ------------------
 
