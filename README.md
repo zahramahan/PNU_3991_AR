@@ -12,6 +12,18 @@
 - [ارائه دو مثال با بیمر ](https://github.com/zahramahan/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/%D8%A7%D8%B1%D8%A7%D8%A6%D9%87%20%D8%AF%D9%88%20%D9%85%D8%AB%D8%A7%D9%84%20%D8%A8%D8%A7%20%D8%A8%DB%8C%D9%85%D8%B1%20-%20%D8%B2%D9%87%D8%B1%D8%A7%D9%85%D8%A7%D9%87%D8%A7%D9%86/%D8%A7%D8%B1%D8%A7%D8%A6%D9%87%20%D8%AF%D9%88%20%D9%85%D8%AB%D8%A7%D9%84%20%D8%A8%D8%A7%20%D8%A8%DB%8C%D9%85%D8%B1%20-%20%D8%B2%D9%87%D8%B1%D8%A7%D9%85%D8%A7%D9%87%D8%A7%D9%86.wmv)
 ------------------
 
+### ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/zahramahan/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/General/ZM_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/zahramahan/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/General/ZM_GeneralSection_CheckList_AR_3991.pdf)
+
+##  بخش دروس 
+
+- [ارزیابی نظریه زبانها و ماشین ها ](https://github.com/zahramahan/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/General/ZM_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+
+------------------
+
 ## Winter Semester Courses 1399/2020
 
 ## دروس کارشناسی 
